@@ -1,0 +1,12 @@
+.container {
+    border: 5px solid black;
+    display: flex;
+}
+
+.home{
+    order: 1;
+}
+
+.logout{
+    order: -1;
+}

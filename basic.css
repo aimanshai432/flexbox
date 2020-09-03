@@ -1,0 +1,17 @@
+.container > div{
+    border: 5px outset;
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    font-size: 2em;
+}
+
+body{
+    margin: 0;
+}
+
+html, body{
+    box-sizing: border-box;
+    height: 100%;
+    padding: 10px;
+}
